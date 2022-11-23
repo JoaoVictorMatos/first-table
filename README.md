@@ -34,4 +34,4 @@
                 <td>R$1900</td>
                 <td>R$150</td>
             </tr>
-        </Table>
+        </Table> </html>
